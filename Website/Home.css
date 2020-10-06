@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.event {
+    margin: 10px;
+}
+
+
+.subjudul{
+    font-size: 40px;
+    margin: 30px;
+    text-align: center;
+}
+
+.EdeFact {
+    margin-top: 40px;
+}
+
+.Maps-Yt {
+    margin-top: 40px;
+}
+
+.list{
+    text-align: center;
+    margin-left: -320px;
+}
